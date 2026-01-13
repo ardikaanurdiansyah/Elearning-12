@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "131959635436",
+    "project_id": "crud-mobile-cf872",
+    "storage_bucket": "crud-mobile-cf872.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131959635436:android:ec9e1ab8935b1896d6d4c9",
+        "android_client_info": {
+          "package_name": "com.example.crud_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzqIHyVfqschLRXwYRzb316t5ghkuP280"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131959635436:android:223ff04a365b275dd6d4c9",
+        "android_client_info": {
+          "package_name": "com.example.latihan_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzqIHyVfqschLRXwYRzb316t5ghkuP280"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

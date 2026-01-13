@@ -1,0 +1,13 @@
+name: latihan_crud
+description: A new Flutter project.
+
+environment:
+  sdk: '^3.9.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  shared_preferences: ^2.2.2
+  firebase_core: ^2.24.2
+  cloud_firestore: ^4.13.6
